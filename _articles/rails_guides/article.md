@@ -3,7 +3,7 @@ title: "Rails Guide"
 excerpt: "This is an excerpt for rails guides"
 ---
 
-# Some snippets from the Rails Guides
+# Some snippets from the Rails Guides whoops I am typing wrong
 
 Here are some code snippets and text from [the markdown files that are used to build the Rails Guides](https://github.com/rails/rails/blob/main/guides/source/active_job_basics.md).
 
